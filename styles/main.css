@@ -9054,6 +9054,7 @@ body {
   text-align: center;
   margin-left: 0;
   z-index: 999;
+  margin-top: -300px;
 }
 
 .ww-home-page .ww-wedding-announcement img {
