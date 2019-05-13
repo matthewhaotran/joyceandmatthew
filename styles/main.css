@@ -9036,7 +9036,7 @@ body {
   background-size: cover;
   background-position: 45%;
   height: 100vh;
-  min-height: 480px;
+  min-height: 755px;
 }
 
 .ww-home-page .ww-wedding-announcement {
@@ -9275,7 +9275,7 @@ body {
 }
 
 .ww-section {
-  padding: 100px 0;
+  padding: 20px 0;
 }
 
 .btn-primary {
