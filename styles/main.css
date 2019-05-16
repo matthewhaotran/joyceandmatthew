@@ -9269,6 +9269,11 @@ body {
   cursor: pointer;
 }
 
+.ww-footer {
+  position: absolute;
+  width: 100%;
+}
+
 /* Common Style */
 .ww-title {
   font-family: "Great Vibes", cursive;
