@@ -8,5 +8,10 @@ A static website for Joyce and Matthew's wedding, including event information, p
 
 https://joyceandmatthew.com
 
+## Technology
+
+* Written in HTML, CSS, and JavaScript
+* Hosted on AWS with Route 53, S3, Certificate Manager, and CloudFront
+
 ## License
 [Matthew Tran](https://matthewhaotran.github.io)
