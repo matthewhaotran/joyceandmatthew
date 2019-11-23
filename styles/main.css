@@ -10273,3 +10273,7 @@ body {
   border: solid black 1px;
   padding: 0.5rem;
 }
+
+.bridesmaid {
+  max-width: 250px;
+}
