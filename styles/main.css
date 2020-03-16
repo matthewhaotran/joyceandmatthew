@@ -9999,7 +9999,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home.jpg") no-repeat center center;
+  background: url("../images/tiugetherastran.jpg") no-repeat center center;
   background-size: cover;
   background-position: 45%;
   height: 100vh;
@@ -10011,7 +10011,7 @@ body {
   max-width: 1600px;
   margin: 0 auto;
   height: 100%;
-  color: #fff;
+  color: #000;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   letter-spacing: 2px;
 }
