@@ -10278,3 +10278,7 @@ body {
   max-width: 250px;
   max-height: 250px;
 }
+
+.ww-title {
+  margin-top: 1rem;
+}
