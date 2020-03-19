@@ -10282,3 +10282,7 @@ body {
 .ww-title {
   margin-top: 1rem;
 }
+
+.rsvp_under_button_text {
+  display: none;
+}
