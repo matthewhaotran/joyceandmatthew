@@ -10044,6 +10044,15 @@ body {
   .ww-home-page .ww-wedding-announcement .ww-couple-name {
     font-size: 50px;
   }
+  .ww-home-page {
+    background: none;
+  }
+}
+
+@media (max-width: 800px) {
+  .ww-home-page {
+    background: none;
+  }
 }
 
 .ww-home-page:before {
